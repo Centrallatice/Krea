@@ -66,9 +66,10 @@
 				</div>
 				<div class="navbar-collapse collapse" aria-expanded="false" style="height: 0px;">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#top" class="current"><i class="fa fa-home"></i></a></li>
-						<li><a href="#about" class="">A propos de nous</a></li>
-						<li><a href="#service" class="">Préstations</a></li>
+						<li><a href="#top" class="current">Accueil</a></li>
+						<li><a href="#about" class="">Qui sommes-nous</a></li>
+						<li><a href="#qui" class="">Pour Qui ?</a></li>
+						<li><a href="#comment" class="">Comment ?</a></li>
 						<li><a href="#portfolio" class="">Nos projets</a></li>
 						<li><a href="#contact" class="">Contactez-nous</a></li>
 					</ul>
@@ -98,7 +99,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">WE ARE <span>AWESOME</span></h2>
+    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">QUI SOMMES<span>-NOUS</span></h2>
     				</div>
 					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
 						<div class="media">
@@ -142,14 +143,37 @@
 				</div>
 			</div>
 		</section>
-		<!-- end about -->
-
-    	<!-- start service -->
-    	<section id="service">
+		
+    	<section id="qui">
     		<div class="container">
     			<div class="row">
     				<div class="col-md-12">
-    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">OUR <span>AWESOME</span> THINGS</h2>
+    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">NOS <span>PRESTATIONS</span></h2>
+    				</div>
+    				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+    					<i class="fa fa-laptop"></i>
+    					<h4>TPE</h4>
+    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
+    				</div>
+    				<div class="col-md-4 active wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
+    					<i class="fa fa-cloud"></i>
+    					<h4>Association</h4>
+    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
+    				</div>
+    				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+    					<i class="fa fa-cog"></i>
+    					<h4>Mairie</h4>
+    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
+		
+		<section id="comment">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-md-12">
+    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">NOS <span>PRESTATIONS</span></h2>
     				</div>
     				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
     					<i class="fa fa-laptop"></i>
@@ -158,7 +182,7 @@
     				</div>
     				<div class="col-md-4 active wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
     					<i class="fa fa-cloud"></i>
-    					<h4>Cloud Computing</h4>
+    					<h4>CMS (NGCMS, Prestashop, Joomla, Wordpress)</h4>
     					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
     				</div>
     				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
@@ -190,11 +214,11 @@
     				</div>
 					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
                         <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+    					   <img src="img/portfolio/eventspa.jpg" class="img-responsive thumbnail" alt="EventSPA">
 							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								<h4>EventSPA</h4>
+								<p>EventSPA est une société de location de matériel événementiel et SPA à domicile</p>
+								<a href="http://www.eventspa.fr" class="btn btn-default" target="_blank">Voir le site</a>
 							</div>
                         </div>
     				</div>
