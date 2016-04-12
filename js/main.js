@@ -1,16 +1,16 @@
 $(document).ready(function(){
 	
 	$(".element").typed({
-        strings: ["pour présenter mes produits ^2000","pour vendre en ligne ^1000","pour ma mairie ^1000","pour mon association ^1000","mon entreprise ^1000"],
-        typeSpeed: 100,
+        strings: ["pour présenter mes produits \" ^2000","pour les vendre en ligne \" ^2000","pour ma mairie \" ^2000","pour mon association \" ^2000","pour mon entreprise \" ^2000"],
+        typeSpeed: 10,
         contentType: 'html',
         showCursor: false,
-        loop: true,
+        loop: false,
         loopCount: true,
 		callback: function() {
 			setTimeout(function() {
-				$('h1.wow').fadeOut(2000,function(){
-					$('h1.wow').html("La seule limite est <p class='colormeBlue'><span class='elementtwice'></span></p></h1>").fadeIn("fast");
+				$('h1.principale').fadeOut(2000,function(){
+					$('h1.principale').html("La seule limite est <p class='colormeBlue'><span class='elementtwice'></span></p></h1>").fadeIn("fast");
 					$(".elementtwice").typed({
 						strings: ["Votre imagination !"],
 						typeSpeed: 200,

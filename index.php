@@ -71,11 +71,10 @@
     		<div class="container">
     			<div class="row">
     				<div class="col-md-offset-1 col-md-10 col-xs-12">
-    					<h1 class="wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">Création de sites internet
+    					<h1 class="principale">"Comment créer un site internet
 							<p class="colormeBlue"><span class="element"></span></p>
 						</h1>
-    					
-    					<a data-scroll="" href="#contact" class="btn btn-default wow fadeInUp animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">CONTACTEZ-NOUS</a>
+    					<a href="#contact" class="btn btn-default">CONTACTEZ-NOUS</a>
     				</div>
     			</div>
     		</div>
