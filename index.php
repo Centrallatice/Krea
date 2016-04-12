@@ -71,7 +71,7 @@
     		<div class="container">
     			<div class="row">
     				<div class="col-md-offset-1 col-md-10 col-xs-12">
-    					<h1 class="wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">Création de sites internet pour 
+    					<h1 class="wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">Création de sites internet
 							<p class="colormeBlue"><span class="element"></span></p>
 						</h1>
     					
@@ -87,7 +87,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">QUI SOMMES<span>-NOUS</span></h2>
+    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;"><span>K</span>realine</h2>
     				</div>
 					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
 						<div class="media">
@@ -95,7 +95,7 @@
 								<div class="media-object pull-left">
 									<i class="fa fa-mobile"></i>
 								</div>
-								<h3 class="media-heading">FULLY RESPONSIVE</h3>
+								<h3 class="media-heading">Des solutions adaptées</h3>
 							</div>
 							<div class="media-body">
 								<p>Awesome <a href="http://www.templatemo.com/tag/responsive">responsive template</a> is provided by <a rel="nofollow" href="http://www.templatemo.com">templatemo</a> website. This is Bootstrap v3.3.2 layout built on HTML5 CSS3. You can use this for any purpose. Please tell your friends about it.</p>
@@ -108,7 +108,7 @@
 								<div class="media-object pull-left">
 									<i class="fa fa-comment-o"></i>
 								</div>
-								<h3 class="media-heading">FREE SUPPORT</h3>
+								<h3 class="media-heading">Votre projet au centre de nos attentions</h3>
 							</div>
 							<div class="media-body">
 								<p>Credits go to <a rel="nofollow" href="http://pixabay.com">Pixabay</a> for homepage image and <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for portfolio images. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
@@ -121,7 +121,7 @@
 								<div class="media-object pull-left">
 									<i class="fa fa-html5"></i>
 								</div>
-								<h3 class="media-heading">HTML5 &amp; CSS3</h3>
+								<h3 class="media-heading">Un support garantie</h3>
 							</div>
 							<div class="media-body">
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet.</p>

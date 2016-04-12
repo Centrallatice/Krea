@@ -1,11 +1,11 @@
 $(document).ready(function(){
 	
 	$(".element").typed({
-        strings: ["Particuliers ^2000", "Professionnels ^1000","Associations ^1000", "Mairies ^1000", "Boutiques en ligne ^1000"],
+        strings: ["pour présenter mes produits ^2000","pour vendre en ligne ^1000","pour ma mairie ^1000","pour mon association ^1000","mon entreprise ^1000"],
         typeSpeed: 100,
         contentType: 'html',
         showCursor: false,
-        loop: false,
+        loop: true,
         loopCount: true,
 		callback: function() {
 			setTimeout(function() {

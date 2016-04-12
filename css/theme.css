@@ -253,14 +253,13 @@ header .social-icon li a
 	font-weight:bold;
 	font-size:40px;
 }
-.colormeBlue{
+#colormeBlue{
 	color: #28a7e9;
 	font-size: 60px;
 	height: 60px;
-}
-.element {
     font-weight: bold;
 }
+
 /* end home */
 
 /* start about */
@@ -530,7 +529,7 @@ header .social-icon li a
 	{
 		font-size: 55px;
 	}
-	.colormeBlue{
+	#colormeBlue{
 		font-size: 55px;
 	}
 }
@@ -541,7 +540,7 @@ header .social-icon li a
 	{
 		font-size: 50px;
 	}
-	.colormeBlue{
+	#colormeBlue{
 		font-size: 50px;
 	}
 	#team .team-wrapper
@@ -577,7 +576,7 @@ header .social-icon li a
 	{
 		font-size: 30px;
 	}
-	.colormeBlue{
+	#colormeBlue{
 		font-size: 40px;
 	}
 	#home
