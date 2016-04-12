@@ -4,6 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
 <head>
+	<meta name="robots" content="noindex">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title></title>
@@ -16,43 +17,30 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" href="./css/theme.css">
-
 </head>
 <body id="top">
-		<div class="preloader" style="display: none;">
-			<div class="sk-spinner sk-spinner-wave">
-     	 		<div class="sk-rect1"></div>
-       			<div class="sk-rect2"></div>
-       			<div class="sk-rect3"></div>
-      	 		<div class="sk-rect4"></div>
-      			<div class="sk-rect5"></div>
-     		</div>
-    	</div>
-        <header>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-4 col-xs-12">
-                        <p><i class="fa fa-phone"></i><span> Téléphone</span>06 11 92 59 12</p>
-                    </div>
-                    <div class="col-md-3 col-sm-4 col-xs-12">
-                        <p><i class="fa fa-envelope-o"></i><span> Email</span><a href="#">contact@krealine.fr</a></p>
-                    </div>
-                    <div class="col-md-5 col-sm-4 col-xs-12">
-                        <ul class="social-icon">
-                            <li><span>Retrouvez-nous sur </span></li>
-                            <li><a href="#" class="fa fa-facebook"></a></li>
-                            <li><a href="#" class="fa fa-twitter"></a></li>
-                            <li><a href="#" class="fa fa-google"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- end header -->
-
+	<header>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 col-sm-4 col-xs-12">
+					<p><i class="fa fa-phone"></i><span> Téléphone</span>06 11 92 59 12</p>
+				</div>
+				<div class="col-md-3 col-sm-4 col-xs-12">
+					<p><i class="fa fa-envelope-o"></i><span> Email</span><a href="#">contact@krealine.fr</a></p>
+				</div>
+				<div class="col-md-5 col-sm-4 col-xs-12">
+					<ul class="social-icon">
+						<li><span>Retrouvez-nous sur </span></li>
+						<li><a href="#" class="fa fa-facebook"></a></li>
+						<li><a href="#" class="fa fa-twitter"></a></li>
+						<li><a href="#" class="fa fa-google"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
     	<!-- start navigation -->
 		<nav class="navbar navbar-default template-nav" role="navigation">
 			<div class="container">
@@ -62,7 +50,7 @@
 						<span class="icon icon-bar"></span>
 						<span class="icon icon-bar"></span>
 					</button>
-					<a href="#" class="navbar-brand"><b>K</b>realine</a>
+					<a href="http://www.krealine.fr" class="navbar-brand"><span class="kblue">K</span>realine</a>
 				</div>
 				<div class="navbar-collapse collapse" aria-expanded="false" style="height: 0px;">
 					<ul class="nav navbar-nav navbar-right">
@@ -82,12 +70,12 @@
     	<section id="home">
     		<div class="container">
     			<div class="row">
-    				<div class="col-md-offset-2 col-md-8">
-    					<h1 class="wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">La seule limite est 
+    				<div class="col-md-offset-1 col-md-10 col-xs-12">
+    					<h1 class="wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">Création de sites internet pour 
 							<p class="colormeBlue"><span class="element"></span></p>
 						</h1>
     					
-    					<a data-scroll="" href="#about" class="btn btn-default wow fadeInUp animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">GET STARTED</a>
+    					<a data-scroll="" href="#contact" class="btn btn-default wow fadeInUp animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">CONTACTEZ-NOUS</a>
     				</div>
     			</div>
     		</div>

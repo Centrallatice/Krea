@@ -155,11 +155,16 @@ header .social-icon
 	{
 		text-align: right;
 	}
+header .social-icon li span
+	{
+		padding-left:0;
+	}
 header .social-icon li a
 	{
 		border: none;
 		width: 20px;
 		height: 20px;
+		font-size: 20px;
 		line-height: 20px;
 		text-align: center;
 	}
@@ -216,7 +221,7 @@ header .social-icon li a
 #home h1
 	{
 		font-weight: 300;
-		font-size: 70px;
+		font-size: 60px;
 		padding-bottom: 10px;
 	}
 #home h1 span
@@ -243,11 +248,15 @@ header .social-icon li a
 		background: #28a7e9;
 		border-color: transparent;
 }
+.kblue{
+	color:#28a7e9;
+	font-weight:bold;
+	font-size:40px;
+}
 .colormeBlue{
 	color: #28a7e9;
-	font-size: 70px;
+	font-size: 60px;
 	height: 60px;
-
 }
 .element {
     font-weight: bold;
@@ -517,10 +526,24 @@ header .social-icon li a
 	#portfolio .portfolio-thumb .portfolio-overlay {
 		padding: 0px 8px;
 	}
+	#home h1
+	{
+		font-size: 55px;
+	}
+	.colormeBlue{
+		font-size: 55px;
+	}
 }
 
 /* start 980 media quires */
 @media only screen and ( max-width: 980px ) {
+	#home h1
+	{
+		font-size: 50px;
+	}
+	.colormeBlue{
+		font-size: 50px;
+	}
 	#team .team-wrapper
 		{
 			margin-top: 40px;
@@ -546,16 +569,24 @@ header .social-icon li a
 
 /* start 768 media quires */
 @media only screen and ( max-width: 767px ) {
+	header p
+	{
+		margin:0 0 6px;
+	}
+	#home h1
+	{
+		font-size: 30px;
+	}
+	.colormeBlue{
+		font-size: 40px;
+	}
 	#home
 		{
 			min-height: 300px;
 			padding-top: 80px;
 			padding-bottom: 60px;
 		}
-	#home h1
-		{
-			font-size: 52px;
-		}
+	
 
 	.template-nav {
 		position: fixed;
@@ -597,7 +628,7 @@ header .social-icon li a
 		}
 	#home h1
 		{
-			font-size: 32px;
+			font-size: 22px;
 		}
 
 }
