@@ -19,6 +19,7 @@
 	<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" href="./css/theme.css">
+	<link rel="stylesheet" type="text/css" href="./css/oxygen.css">
 </head>
 <body id="top">
 	<header>
@@ -56,8 +57,8 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#top" class="current">Accueil</a></li>
 						<li><a href="#about" class="">Qui sommes-nous</a></li>
-						<li><a href="#qui" class="">Pour Qui ?</a></li>
 						<li><a href="#comment" class="">Comment ?</a></li>
+						<li><a href="#qui" class="">Pour Qui ?</a></li>
 						<li><a href="#portfolio" class="">Nos projets</a></li>
 						<li><a href="#contact" class="">Contactez-nous</a></li>
 					</ul>
@@ -94,10 +95,10 @@
 								<div class="media-object pull-left">
 									<i class="fa fa-mobile"></i>
 								</div>
-								<h3 class="media-heading">Des solutions adaptées</h3>
+								<h3 class="media-heading">Des solutions adaptées à chaque projet</h3>
 							</div>
 							<div class="media-body">
-								<p>Awesome <a href="http://www.templatemo.com/tag/responsive">responsive template</a> is provided by <a rel="nofollow" href="http://www.templatemo.com">templatemo</a> website. This is Bootstrap v3.3.2 layout built on HTML5 CSS3. You can use this for any purpose. Please tell your friends about it.</p>
+								<p>Parce que chaque site doit être unique, <strong>Krealine</strong> vous accompagne dans la création de votre site internet, en participant tout au long du projet, depuis la phase de réflexion jusqu'à la livraison finale. Que votre site soit une boutique en ligne, un site vitrine, un site "onepage" ou un développement spécigfique à vos besoins, Krealine à la solution</p>
 							</div>
 						</div>
 					</div>
@@ -110,7 +111,7 @@
 								<h3 class="media-heading">Votre projet au centre de nos attentions</h3>
 							</div>
 							<div class="media-body">
-								<p>Credits go to <a rel="nofollow" href="http://pixabay.com">Pixabay</a> for homepage image and <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for portfolio images. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
+								<p>La raison première de l'exsitence de <strong>Krealine</strong> est la passion pour la création de site internet et la satisfaction de nos clients. Nous nous efforçons de nous consacrer sur chaque projet unique, développé au cas par cas à vos côtés afin d'obtenir le meilleur site internet pour vous, votre entreprise, votre association, ...</p>
 							</div>
 						</div>
 					</div>
@@ -120,16 +121,66 @@
 								<div class="media-object pull-left">
 									<i class="fa fa-html5"></i>
 								</div>
-								<h3 class="media-heading">Un support garantie</h3>
+								<h3 class="media-heading">Un support garantie même après la livraison du produit</h3>
 							</div>
 							<div class="media-body">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet.</p>
+								<p>Dès que votre site internet est terminé et installé, nous vous suivons et aidons gratuitement lors de la première année* afin de nous assurer que vous puissiez être autonome à l'avenir.</p>
+								<em>(*) Voir conditions de maintenance, non valable pour des développements hors cahier des charges</em>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
+		
+		<section id="comment" class="fullcontainer bggrey waypoint bg">
+			 <div class="inner">
+				<div class="moduletable">
+				   <!-- Header -->
+				   <h1 class="header semibold dark">Retina ready professionel and <span class="colored">clean</span> design.</h1>
+				   <!-- Description -->
+				   <h4 class="h-desc d-dark">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain</h4>
+				   <!-- Boxes -->
+				   <div class="boxes d-dark">
+					  <!-- Box 1 -->
+					  <div class="col-xs-3 about-box animated fadeIn visible" data-animation="fadeIn" data-animation-delay="100">
+						 <a class="about-icon">
+						 <i class="fa fa-gear "></i>
+						 </a>
+						 <p class="uppercase normal about-head">100% RESPONSIVE DESIGN</p>
+						 <p class="light about-text">On the other hand, we denounce with righteo us indignation and dislike men who are so asure of the moment.</p>
+					  </div>
+					  <!-- Box 2 -->
+					  <div class="col-xs-3 about-box animated fadeIn visible" data-animation="fadeIn" data-animation-delay="300">
+						 <a class="about-icon">
+						 <i class="fa fa-pagelines"></i>
+						 </a>
+						 <p class="uppercase normal about-head">CLEAN CODING</p>
+						 <p class="light about-text">On the other hand, we denounce with righteo us indignation and dislike men who are so asure of the moment.</p>
+					  </div>
+					  <!-- Box 3 -->
+					  <div class="col-xs-3 about-box animated fadeIn visible" data-animation="fadeIn" data-animation-delay="500">
+						 <a class="about-icon">
+						 <i class="fa fa-mobile"></i>
+						 </a>
+						 <p class="uppercase normal about-head">ONE PAGE DESIGN</p>
+						 <p class="light about-text">On the other hand, we denounce with righteo us indignation and dislike men who are so asure of the moment.</p>
+					  </div>
+					  <!-- Box 4 -->
+					  <div class="col-xs-3 about-box animated fadeIn visible" data-animation="fadeIn" data-animation-delay="700">
+						 <a class="about-icon">
+						 <i class="fa fa-star"></i>
+						 </a>
+						 <p class="uppercase normal about-head">EASY CUSTOMIZE</p>
+						 <p class="light about-text">On the other hand, we denounce with righteo us indignation and dislike men who are so asure of the moment.</p>
+					  </div>
+				   </div>
+				   <!-- End Boxes -->
+				</div>
+			 </div>
+			 <!-- End About Inner -->
+      </section>
+		
 		
     	<section id="qui">
     		<div class="container">
@@ -155,102 +206,77 @@
     			</div>
     		</div>
     	</section>
-		
-		<section id="comment">
-    		<div class="container">
-    			<div class="row">
-    				<div class="col-md-12">
-    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;">NOS <span>PRESTATIONS</span></h2>
-    				</div>
-    				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-    					<i class="fa fa-laptop"></i>
-    					<h4>Web Design</h4>
-    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
-    				</div>
-    				<div class="col-md-4 active wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeIn;">
-    					<i class="fa fa-cloud"></i>
-    					<h4>CMS (NGCMS, Prestashop, Joomla, Wordpress)</h4>
-    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
-    				</div>
-    				<div class="col-md-4 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-    					<i class="fa fa-cog"></i>
-    					<h4>UX Design</h4>
-    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie. Adipiscing vitae vel quam proin eget mauris eget. Lorem ipsum dolor sit amet, consectetur adipiscing elitquisque tempus ac eget diam et laoreet phasellus ut nisi id leo molestie.</p>
-    				</div>
-    			</div>
-    		</div>
-    	</section>
-    	<!-- end servie -->
-
     	<!-- start portfolio -->
     	<section id="portfolio">
-    		<div class="container">
-    			<div class="row">
-    				<div class="col-md-12">
-    					<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;"><span>AWESOME</span> PORTFOLIO</h2>
-    				</div>
-    				<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
-							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+    		<div class="fullcontainer bggrey waypoint bg">
+				 <div class="inner">
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="wow bounceIn animated" data-wow-offset="50" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: bounceIn;"><span>AWESOME</span> PORTFOLIO</h2>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+								<div class="portfolio-overlay">
+									<h4>Alabellefenetre</h4>
+									<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
+									<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/eventspa.jpg" class="img-responsive thumbnail" alt="EventSPA">
-							<div class="portfolio-overlay">
-								<h4>EventSPA</h4>
-								<p>EventSPA est une société de location de matériel événementiel et SPA à domicile</p>
-								<a href="http://www.eventspa.fr" class="btn btn-default" target="_blank">Voir le site</a>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/eventspa.jpg" class="img-responsive thumbnail" alt="EventSPA">
+								<div class="portfolio-overlay">
+									<h4>EventSPA</h4>
+									<p>EventSPA est une société de location de matériel événementiel et SPA à domicile</p>
+									<a href="http://www.eventspa.fr" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
-							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+								<div class="portfolio-overlay">
+									<h4>Alabellefenetre</h4>
+									<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
+									<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
-							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+								<div class="portfolio-overlay">
+									<h4>Alabellefenetre</h4>
+									<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
+									<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
-							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+								<div class="portfolio-overlay">
+									<h4>Alabellefenetre</h4>
+									<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
+									<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
-                        <div class="portfolio-thumb">
-    					   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
-							<div class="portfolio-overlay">
-								<h4>Alabellefenetre</h4>
-								<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
-								<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+						</div>
+						<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn animated" data-wow-offset="50" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeIn;">
+							<div class="portfolio-thumb">
+							   <img src="img/portfolio/alabellefenetre.jpg" class="img-responsive thumbnail" alt="Alabellefenetre">
+								<div class="portfolio-overlay">
+									<h4>Alabellefenetre</h4>
+									<p>La société A La Belle Fenêtre créée en 2007 met à votre service 20 années d’expérience dans la menuiserie.</p>
+									<a href="http://www.alabellefenetre.com/" class="btn btn-default" target="_blank">Voir le site</a>
+								</div>
 							</div>
-                        </div>
-    				</div>
-					
-    			</div>
+						</div>
+						
+					</div>
+				</div>
     		</div>
     	</section>
     	<!-- end portfolio -->

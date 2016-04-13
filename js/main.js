@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	
 	$(".element").typed({
-        strings: ["pour présenter mes produits \" ^2000","pour les vendre en ligne \" ^2000","pour ma mairie \" ^2000","pour mon association \" ^2000","pour mon entreprise \" ^2000"],
+        strings: ["pour présenter mes produits \" ^2000","pour vendre mes produits en ligne \" ^2000","pour ma mairie \" ^2000","pour mon association \" ^2000","pour mon entreprise \" ^2000"],
         typeSpeed: 10,
         contentType: 'html',
         showCursor: false,
